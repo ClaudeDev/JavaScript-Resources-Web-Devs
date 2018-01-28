@@ -30,6 +30,7 @@ This is one is my favorite when it comes to understanding something in details.
 5. https://watchandcode.com/  
 6. https://www.udacity.com/course/es6-javascript-improved--ud356
 7. https://javascript30.com/
+8. https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
 
 **Other topics:** [javascript training](https://discussions.udacity.com/t/javascript-training/452990), [Useful material for the course!](https://discussions.udacity.com/t/useful-material-for-the-course/415134), [Javascript free resource](https://discussions.udacity.com/t/javascript-free-resource/445954), [The 50 Best Websites to Learn JavaScript](https://discussions.udacity.com/t/the-50-best-websites-to-learn-javascript/450490), [The Websites and Resources to Learn JavaScript](https://discussions.udacity.com/t/the-websites-and-resources-to-learn-javascript/470542), [Is there any other online learning platforms that you use in parallel with this one](https://discussions.udacity.com/t/is-there-any-other-online-learning-platforms-that-you-use-in-parallel-with-this-one/445362), [5 Cool JavaScript tools to enrich your website!](https://discussions.udacity.com/t/bookmark-5-cool-javascript-tools-to-enrich-your-website/508937)
 
