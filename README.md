@@ -69,6 +69,12 @@ recommended by @Mikkel (forum mentor)
  :open_book: JAVASCRIPT PLUGINS :open_book: 
 
 1. https://flow.org/
+2. https://packagecontrol.io/packages/Babel
+3. https://packagecontrol.io/packages/SublimeLinter
+4. https://packagecontrol.io/packages/JsFormat
+5. https://packagecontrol.io/packages/DocBlockr
+6. https://packagecontrol.io/packages/SideBarEnhancements
+7. https://packagecontrol.io/packages/AngularJS
 
  :open_book:JAVASCRIPT TRICKS AND GAMES :open_book:
 
