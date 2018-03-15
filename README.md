@@ -5,7 +5,7 @@
 Resources to learn js in the right way taken from a Google Udacity Scholarship forum post. 
 
 
- :open_book: <h2>JAVASCRIPT FOR BEGINNERS</h2> :open_book: 
+   <h2>JAVASCRIPT FOR BEGINNERS</h2>   
 
 https://discussions.udacity.com/t/javascript-resource-list-for-complete-beginners/434697?source_topic_id=444559 by @cristiano.petricciuo
 
@@ -22,7 +22,7 @@ https://discussions.udacity.com/t/javascript-resource-list-for-complete-beginner
 
 Other topics: [So I am starting JavaScript training …](https://discussions.udacity.com/t/so-i-am-starting-javascript-training/461099), [Top Ten Things Beginners Must Know About JavaScript](https://discussions.udacity.com/t/top-ten-things-beginners-must-know-about-javascript/449103), [Great youtube channel for javascript](https://discussions.udacity.com/t/great-youtube-channel-for-javascript/473393), https://discussions.udacity.com/t/must-watch-javascript-talks/476726
 
- :open_book: <h2>JAVASCRIPT COURSES</h2> :open_book: 
+   <h2>JAVASCRIPT COURSES</h2>   
 
 1. https://www.freecodecamp.org/ 
 2. http://javascript.info/ by @sergio_kagiema
@@ -36,7 +36,7 @@ This is one is my favorite when it comes to understanding something in details.
 
 **Other topics:** [javascript training](https://discussions.udacity.com/t/javascript-training/452990), [Useful material for the course!](https://discussions.udacity.com/t/useful-material-for-the-course/415134), [Javascript free resource](https://discussions.udacity.com/t/javascript-free-resource/445954), [The 50 Best Websites to Learn JavaScript](https://discussions.udacity.com/t/the-50-best-websites-to-learn-javascript/450490), [The Websites and Resources to Learn JavaScript](https://discussions.udacity.com/t/the-websites-and-resources-to-learn-javascript/470542), [Is there any other online learning platforms that you use in parallel with this one](https://discussions.udacity.com/t/is-there-any-other-online-learning-platforms-that-you-use-in-parallel-with-this-one/445362), [5 Cool JavaScript tools to enrich your website!](https://discussions.udacity.com/t/bookmark-5-cool-javascript-tools-to-enrich-your-website/508937)
 
- :open_book: <h2>JAVASCRIPT BOOKS AND EBOOKS </h2>:open_book: 
+   <h2>JAVASCRIPT BOOKS AND EBOOKS </h2>  
 
 https://discussions.udacity.com/t/looking-for-a-good-book-about-javascript/471098 by @Naebula
 
@@ -52,12 +52,12 @@ recommended by @Mikkel (forum mentor)
 **Other topics**: [Some free e-books for Javascript](https://discussions.udacity.com/t/some-free-e-books-for-javascript/428070), [Must read free e-book - Javascript](https://discussions.udacity.com/t/must-read-free-e-book-javascript/480195), [Free book for Angular.](https://discussions.udacity.com/t/free-book-for-angular/485845), [good book for javascript](https://discussions.udacity.com/t/good-book-for-javascript/488971)
 
 
- :open_book: <h2>JAVASCRIPT DEBUGGING </h2>:open_book: 
+   <h2>JAVASCRIPT DEBUGGING </h2>  
 [JavaScript Debugging: Simple Guideline](https://discussions.udacity.com/t/javascript-debugging-simple-guideline/483428)
 
 [JavaScript Indentation](https://discussions.udacity.com/t/javascript-indentation/484137?source_topic_id=412844)
 
-:open_book: <h2>JAVASCRIPT REFERENCE </h2>:open_book: 
+  <h2>JAVASCRIPT REFERENCE </h2>  
 
 1. https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
@@ -68,7 +68,7 @@ recommended by @Mikkel (forum mentor)
 4. https://quirksmode.org/js/contents.html
 
 
- :open_book: <h2>JAVASCRIPT PLUGINS </h2>:open_book: 
+   <h2>JAVASCRIPT PLUGINS </h2>  
 
 1. https://flow.org/
 2. https://packagecontrol.io/packages/Babel
@@ -78,7 +78,7 @@ recommended by @Mikkel (forum mentor)
 6. https://packagecontrol.io/packages/SideBarEnhancements
 7. https://packagecontrol.io/packages/AngularJS
 
- :open_book:<h2>JAVASCRIPT TRICKS AND GAMES </h2>:open_book:
+  <h2>JAVASCRIPT TRICKS AND GAMES </h2> 
 
 1. https://lab.reaal.me/jsrobot/  
 
