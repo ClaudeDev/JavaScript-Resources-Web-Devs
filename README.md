@@ -2,7 +2,7 @@
  	JavaScript-Resources-Web-Devs
  </h1>
 
-Resources to learn js in the right way taken from a Google Udacity Scholarship forum post. 
+Resources to learn js in the right way taken from my forum post during the Google Udacity Scholarship. 
 
 
    <h2>JAVASCRIPT FOR BEGINNERS</h2>   
